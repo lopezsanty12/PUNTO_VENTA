@@ -10,11 +10,12 @@ using System.Windows.Forms;
 
 namespace PUNTO_VENTA_CODIGO369_CSHARPT
 {
-    public partial class Form1 : Form
+    public partial class usuariosok : Form
     {
-        public Form1()
+        public usuariosok()
         {
             InitializeComponent();
         }
+
     }
 }

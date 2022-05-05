@@ -16,7 +16,7 @@ namespace PUNTO_VENTA_CODIGO369_CSHARPT
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new usuariosok());
         }
     }
 }
